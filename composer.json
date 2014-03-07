@@ -1,0 +1,19 @@
+{
+    "name": "flyer/framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wvanbreukelen",
+            "email": "ikwillerenprogrammeren@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+    	"flyer/foundation": "dev-master",
+    	"flyer/container": "dev-master",
+    	"flyer/facade": "dev-master",
+    	"flyer/routing": "dev-master"
+    }
+}
